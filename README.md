@@ -14,8 +14,8 @@ You will need a free API key from OpenRouter or another source, scroll to bottom
 2. Run the following commands:
 
 ```bash
-git clone https://github.com/atimmeny27/ELI5-MCP-Server
-cd ELI5-MCP-Server
+git clone https://github.com/atimmeny27/ELI5-Tool
+cd ELI5-Tool
 chmod +x start.sh
 ```
 
